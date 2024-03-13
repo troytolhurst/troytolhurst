@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @troytolhurst
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Python/SQL/HTML/CSS/
+- 👀 I’m interested in ... Fullstack Development/Cloud DevOps 
+- 🌱 I’m currently learning ... Python/Terraform/AWS
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...Email: troytolhurst@outlook.com
 
