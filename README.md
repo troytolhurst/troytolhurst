@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @troytolhurst
-- 👀 I’m interested in ... Fullstack Development/Cloud DevOps 
+- 👀 I’m interested in ... Backend Development and Cloud DevOps 
 - 🌱 I’m currently learning ... Python/Terraform/AWS
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...Email: troytolhurst@outlook.com
